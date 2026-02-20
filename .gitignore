@@ -1,21 +1,21 @@
 # Entornos virtuales
+siga_env/
+.conda/
 env/
 venv/
-.conda/
-siga_env/
 
-# Datos (NUNCA SUBIR DATOS A GITHUB)
+# Datos (Regla estricta: NUNCA subir datos a GitHub)
 *.csv
-*.tsv
 *.parquet
 *.json
 *.sqlite
 *.db
 data/
+datasets/
 
-# Archivos de caché de Python
+# Caché y compilados de Python
 __pycache__/
-*.py[cod]
+*.pyc
 *$py.class
 
 # Variables de entorno y contraseñas
