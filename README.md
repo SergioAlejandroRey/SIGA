@@ -1,1 +1,1 @@
-# Sistema de Información para la Gestión de Activos (SIGA)
+# Sistema Integral para la Gestión de Activos (SIGA)
